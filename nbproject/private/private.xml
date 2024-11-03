@@ -3,38 +3,44 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/TablePojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/khachHangPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmAdmin.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/roleNamePojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmHinhSanPham.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/Database.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/nhaCungCapPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhapHang.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/RoleUserDao.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/phieuNhapPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/khachHangDao.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/chiTietHoaDonPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemNCC.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/mauSacPojo.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/xemQuyenDoiTuongPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/WritePDF.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/nhanVienPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/chiTietHoaDonDao.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/thongKeSanPhamDao.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmHinhAnhNV.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/sanPhamDao.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/DAOInterface.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmDangNhap.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhanVienKho.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemLSP.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaNV.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/thongKeDoanhThuDao.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemKH.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/thongKeDoanhThuPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmThemNVMoi.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/SendMail.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/loaiSanPhamPojo.java</file>
-            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaLoaiSP.java</file>
-            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmSuaNCC.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/hoaDonPojo.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/sanPhamPojo.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmNhanVienThuNgan.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/chiTietPhieuNhapPojo.java</file>
+            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/hoaDonDao.java</file>
             <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/POJO/thongKeSanPhamPojo.java</file>
-            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmChiTietHD.java</file>
-            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/GUI/frmChiTietPN.java</file>
-            <file>file:/C:/Users/Admin/Desktop/QuanLyCuaHangThoiTrang/src/DAO/dataAdmin.java</file>
         </group>
     </open-files>
 </project-private>
